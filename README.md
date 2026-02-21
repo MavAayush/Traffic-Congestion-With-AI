@@ -1,4 +1,4 @@
-# Traffic Prediction
+# Traffic Predictions
 Proposed Proof of Concept to solve Traffic Congestion and Prediction Problem for Smart Cities.
 Used - 
 LSTM(for future prediction) + CNN(To detect traffic density) + Real Time Tweets 
