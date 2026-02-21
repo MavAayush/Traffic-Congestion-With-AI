@@ -1,0 +1,39 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+.env
+.venv
+env/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large data/model files (add back after first push if you want them in repo or use Git LFS)
+traffic.csv
+*.keras
+*.h5
+backend/models/
+public/models/
+tempserver/node_modules/
+
+# Training datasets (exceed GitHub 100 MB limit)
+Training/model2_congested_traffic_dataset.csv
+Training/model2_uncongested_traffic_dataset.csv

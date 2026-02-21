@@ -1,0 +1,20 @@
+[
+  {
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "message": "Heavy jam at Delhi",
+    "severity": "high"
+  },
+  {
+    "lat": 28.5355,
+    "lng": 77.3910,
+    "message": "Slow traffic at Noida",
+    "severity": "medium"
+  },
+  {
+    "lat": 28.4595,
+    "lng": 77.0266,
+    "message": "Clear road at Gurgaon",
+    "severity": "low"
+  }
+]
